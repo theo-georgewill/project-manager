@@ -39,7 +39,7 @@ task-manager/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/theo-georgewill/task-manager.git
 cd task-manager/backend
 ```
 
